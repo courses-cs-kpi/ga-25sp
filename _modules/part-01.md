@@ -18,5 +18,8 @@ title: Вступ
   : [[PDF](https://drive.google.com/drive/folders/16tnR2Lx7S06263jN8_PetmfujFKLQCEf?usp=sharing)]
 
 
-
+26 кві
+: **ПР #1**{: .label .label-purple} **Генетичнi алгоритми та еволюцiйнi обчислення**
+  : [[Деталі](https://drive.google.com/drive/folders/1AnpImNgQj3sv5Twe0ueSaSnVcnAMOkOP?usp=sharing)]
+: Дедлайн: 8 травня
 
