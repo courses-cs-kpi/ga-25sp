@@ -4,12 +4,11 @@ title: Вступ
 
 17 лют
 
-: **Огляд 1**{: .label .label-green } **Приклад генетичного алгоритму**
-  : [[VIDEO](https://www.youtube.com/watch?v=XcinBPhgT7M)]
-
-: **Огляд 2**{: .label .label-green } **Що таке генетичні алгоритми?**
+: **Огляд 1**{: .label .label-green } **Що таке генетичні алгоритми?**
   : [[VIDEO](https://www.youtube.com/watch?v=XP2sFzp2Rig&list=PLIU2q0ak7cPqPb_d4zqM5yRMSHbxFH__D)]
 
+<!-- : **Огляд 1**{: .label .label-green } **Приклад генетичного алгоритму**
+  : [[VIDEO](https://www.youtube.com/watch?v=XcinBPhgT7M)]
 : **Огляд 3**{: .label .label-green } **Генетичний алгоритм на Python**
   : [[VIDEO](https://www.youtube.com/watch?v=CRtZ-APJEKI)]
 
@@ -19,5 +18,5 @@ title: Вступ
 26 кві
 : **ПР #1**{: .label .label-purple} **Генетичнi алгоритми та еволюцiйнi обчислення**
   : [[Деталі](https://drive.google.com/drive/folders/1q-IrnAhtOEs7aPX9ggPrYqnwgBsWhp8j?usp=sharing)]
-: Дедлайн: 8 травня
+: Дедлайн: 8 травня -->
 

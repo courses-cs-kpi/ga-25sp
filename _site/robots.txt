@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/ga-24sp/sitemap.xml
+Sitemap: http://localhost:4000/ga-25sp/sitemap.xml
