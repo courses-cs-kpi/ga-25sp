@@ -2,10 +2,14 @@
 title: Вступ 
 ---
 
-17 лют
+12 лют
 
 : **Огляд 1**{: .label .label-green } **Що таке генетичні алгоритми?**
   : [[VIDEO](https://www.youtube.com/watch?v=XP2sFzp2Rig&list=PLIU2q0ak7cPqPb_d4zqM5yRMSHbxFH__D)]
+
+19 лют
+: **Лекція 1**{: .label .label-green } **Вступ до еволюційних обчислень**
+  : [[HML](https://ykochura.github.io/ga-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ga-kpi/pdf/lecture1.pdf)] 
 
 <!-- : **Огляд 1**{: .label .label-green } **Приклад генетичного алгоритму**
   : [[VIDEO](https://www.youtube.com/watch?v=XcinBPhgT7M)]
