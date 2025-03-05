@@ -11,6 +11,14 @@ title: Вступ
 : **Лекція 1**{: .label .label-green } **Вступ до еволюційних обчислень**
   : [[HML](https://ykochura.github.io/ga-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ga-kpi/pdf/lecture1.pdf)] 
 
+
+05 бер
+: **Лекція 2**{: .label .label-green } **Генетичні алгоритми**
+  : [[HML](https://ykochura.github.io/ga-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ga-kpi/pdf/lecture2.pdf)] 
+
+: **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
+  : [[ГА на Python](https://www.youtube.com/watch?v=CRtZ-APJEKI)] 
+
 <!-- : **Огляд 1**{: .label .label-green } **Приклад генетичного алгоритму**
   : [[VIDEO](https://www.youtube.com/watch?v=XcinBPhgT7M)]
 : **Огляд 3**{: .label .label-green } **Генетичний алгоритм на Python**
