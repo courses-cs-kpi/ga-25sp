@@ -17,7 +17,13 @@ title: Вступ
   : [[HML](https://ykochura.github.io/ga-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ga-kpi/pdf/lecture2.pdf)] 
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
-  : [[ГА на Python](https://www.youtube.com/watch?v=CRtZ-APJEKI)] 
+  : [[ГА на Python](https://www.youtube.com/watch?v=CRtZ-APJEKI)]
+
+
+16 кві
+: **ПР #1**{: .label .label-purple} **Еволюційні обчислення** 
+  : [[PDF](https://github.com/YKochura/ga-kpi/blob/main/practice/practice1.pdf)] 
+    : **Дедлайн**:  11 травня
 
 <!-- : **Огляд 1**{: .label .label-green } **Приклад генетичного алгоритму**
   : [[VIDEO](https://www.youtube.com/watch?v=XcinBPhgT7M)]
